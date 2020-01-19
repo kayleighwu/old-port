@@ -49,14 +49,21 @@ nav a {
 .home-contact {
   <img src="bourbon.jpg" alt="Kayleigh in the french quarter";
 }
+
+.fiximage{
+    height: 300px
+}
 .home_ _ image{
-  width: 100%;
+  width: 100px;
   height:150px;
+  padding: 3em;
   object-fit: scale-down;
   object-position: center;
-
 }
 
+.image-resize{
+  height: 300px
+}
 
 .about{
   margin: 4em 0;
